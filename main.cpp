@@ -19,7 +19,7 @@ const int densitySize = density.length();
 const float indexVal = (float)256 / densitySize;
 
 const wchar_t* imagePath = L"imgs/dog.jpg";
-const std::string filePath = "output.txt";
+const std::string filePath = "ASCII/output.txt";
 
 int main() {
 
