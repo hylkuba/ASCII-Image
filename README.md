@@ -1,9 +1,7 @@
 # ASCII-Image
 
-/**
- * @author Jakub Hýl <hylkuba@gmail.com>
- * @date 11.01.2024
-*/
+* @author Jakub Hýl <hylkuba@gmail.com>
+* @date 11.01.2024
 
 Feel free to generate your own ASCII art.
 
